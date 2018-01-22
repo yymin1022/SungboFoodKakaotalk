@@ -1,0 +1,4 @@
+Flask==0.10.1
+beautifulsoup4==4.6.0
+Werkzeug==0.14.1
+pytz==2017.3
